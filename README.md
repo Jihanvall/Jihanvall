@@ -35,7 +35,7 @@ Welcome to my profile! I'm an **AI & Data Science Engineere**  who is passionate
 ###  Certifications & Credentials
 
 -  **Fundamentals of Deep Learning** — *NVIDIA*
-  - **Issue Date:** April 18, 2025 | **Certification ID:** `uTaPPAg0TKuxQGIUEZ9hNA`
+  - **Issue Date:** April 18, 2025 | 🔗 [Verify Certificate](https://learn.nvidia.com/certificates?id=uTaPPAg0TKuxQGIUEZ9hNA)
 
 -  **CS50's Web Programming with Python and JavaScript** — *Harvard University (CS50)*
   - **Issue Date:** 2025 | 🔗 [Verify Certificate](https://cs50.harvard.edu/certificates/b5038d6d-d877-4fb0-9d58-1e698e88fabb)
