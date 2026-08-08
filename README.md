@@ -4,7 +4,7 @@ Welcome to my profile! I'm an **AI & Data Science Engineere**  who is passionate
 
 ---
 
-### 💡 About Me
+###  About Me
 
 -  **AI & Data Science Engineere** with hands-on experience in machine learning, data engineering, and real-world system optimization.
 -  Gained practical engineering experience  at **Nexans** and **Ibtikar**, applying analytical and technical solutions to industrial workflows and computer vision solutions for face recognition .
@@ -34,16 +34,16 @@ Welcome to my profile! I'm an **AI & Data Science Engineere**  who is passionate
 ---
 ###  Certifications & Credentials
 
-- 🤖 **Fundamentals of Deep Learning** — *NVIDIA*
+-  **Fundamentals of Deep Learning** — *NVIDIA*
   - **Issue Date:** April 18, 2025 | **Certification ID:** `uTaPPAg0TKuxQGIUEZ9hNA`
 
-- 🌐 **CS50's Web Programming with Python and JavaScript** — *Harvard University (CS50)*
+-  **CS50's Web Programming with Python and JavaScript** — *Harvard University (CS50)*
   - **Issue Date:** 2025 | 🔗 [Verify Certificate](https://cs50.harvard.edu/certificates/b5038d6d-d877-4fb0-9d58-1e698e88fabb)
 
-- 🧮 **Math for Machine Learning with Python (OC-math-ml-python)** — *edX*
+-  **Math for Machine Learning with Python (OC-math-ml-python)** — *edX*
   - **Issue Date:** October 22, 2024 | 🔗 [Verify Certificate](https://courses.edx.org/certificates/029304c9e5264fffb5c81f05f6f544d0)
 
-- 💡 **AI0101EN: AI for Everyone: Master the Basics** — *IBM (via edX)*
+-  **AI0101EN: AI for Everyone: Master the Basics** — *IBM (via edX)*
   - **Issue Date:** September 17, 2024 | 🔗 [Verify Certificate](https://courses.edx.org/certificates/0ae3f51d1c884ce69f0e8c1faabbcb9c)
 
 ### GitHub Stats
