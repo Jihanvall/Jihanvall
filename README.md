@@ -6,11 +6,8 @@ Welcome to my profile! I'm an **AI & Data Science Engineere**  who is passionate
 
 ###  About Me
 
--  **AI & Data Science Engineer** with hands-on experience in machine learning, data engineering, and real-world system optimization.
--  Gained practical engineering experience  at **Nexans** and **Ibtikar**, applying analytical and technical solutions to industrial workflows and computer vision solutions for face recognition .
-- Passionate about advanced Machine Learning, Computer Vision, and exploring next-generation AI architectures.
-
-
+- AI & Data Science Engineer, graduate of EPI Digital School. 
+- Built a deep learning liveness detection system at Ibtikar-Technology, and worked on industrial data pipelines at Nexans.
 ---
 
 ###  Skills & Technologies
