@@ -43,10 +43,4 @@ Welcome to my profile! I'm an **AI & Data Science Engineere**  who is passionate
 -  **AI0101EN: AI for Everyone: Master the Basics** — *IBM (via edX)*
   - **Issue Date:** September 17, 2024 | 🔗 [Verify Certificate](https://courses.edx.org/certificates/0ae3f51d1c884ce69f0e8c1faabbcb9c)
 
-###  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jihanvall&show_icons=true&theme=dark" alt="Jihane's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jihanvall&layout=compact&theme=dark" alt="Top Languages" />
-</p>
