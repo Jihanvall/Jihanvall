@@ -49,7 +49,7 @@ Welcome to my profile! I'm an **AI & Data Science Engineere**  who is passionate
 ###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jihanvall&show_icons=true&theme=dark" alt="Jihane's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jihanvall&show_icons=true&theme=dark" alt="Jihane's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jihanvall&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jihanvall&layout=compact&theme=dark" alt="Top Languages" />
 </p>
