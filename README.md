@@ -1,13 +1,4 @@
-# Hi there!
-
-Welcome to my profile! I'm an **AI & Data Science Engineere**  who is passionate about building intelligent systems, open-source software, and solving real-world engineering challenges.
-
----
-
-###  About Me
-
-- AI & Data Science Engineer, graduate of EPI Digital School. 
-- Built a deep learning liveness detection system at Ibtikar-Technology, and worked on industrial data pipelines at Nexans.
+### Hello! I'm Jihan, AI & Data Science Engineer.
 ---
 
 ###  Skills & Technologies
