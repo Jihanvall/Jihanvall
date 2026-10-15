@@ -2,7 +2,7 @@
 ---
 
 ###  Skills & Technologies
-#### **AI, Machine Learning & Data Science**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -19,7 +19,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ---
-###  Certifications & Credentials
+###  Certifications
 
 -  **Fundamentals of Deep Learning** — *NVIDIA*
   - **Issue Date:** April 18, 2025 | 🔗 [Verify Certificate](https://learn.nvidia.com/certificates?id=uTaPPAg0TKuxQGIUEZ9hNA)
