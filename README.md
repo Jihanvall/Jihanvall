@@ -1,4 +1,5 @@
-### Hello! I'm Jihan, AI & Data Science Engineer.
+### Hello! I'm Jihan, AI & Data Science Engineer. 
+Graduated from EPI DIGITAL SCHOOL🎓
 ---
 ###  Certifications
 
